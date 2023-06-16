@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Mô hình One Piece Zoro wano trên mái nhà cao 20 cm , zoro 300 thế giới , trạng thái chiến đấu , mô hình giá xưởng",
+    "price": 57000,
+    "urlImage": "/images/zoro.png"
+  },
+  {
+    "id": 2,
+    "name": "Mô Hình Portgas D. Ace F.zero - Hỏa Quyền ACE - Figure Tượng One Piece",
+    "price": 43500,
+    "urlImage": "/images/ace.png"
+  },
+  {
+    "id": 3,
+    "name": "[Mã ELAS815B giảm 8% tối đa 2TR2] Apple iPhone 14 Pro Max 128GB",
+    "price": 27750000,
+    "urlImage": "/images/iphone.png"
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch SE (GPS + Cellular) Dây Cao Su",
+    "price": 8690000,
+    "urlImage": "/images/watch.png"
+  },
+  {
+    "id": 5,
+    "name": "[Mã ELAS815B giảm 8% tối đa 2TR2] Apple MacBook Air 13\" 2020 (M1/8GB/256GB)",
+    "price": 18960000,
+    "urlImage": "/images/laptop.png"
+  },
+  {
+    "id": 6,
+    "name": "Ốp Điện Thoại Silicon Họa Tiết Đu Đủ Dành Cho IPhone 8 7 Plus SE 2020 6 6S Plus",
+    "price": 59610,
+    "urlImage": "/images/bo.png"
+  },
+  {
+    "id": 7,
+    "name": "Ốp Điện Thoại Silicon Dẻo In Hình Gấu Dâu Tây Cho IPhone 8 7 6 6S Plus SE 2020",
+    "price": 59829,
+    "urlImage": "/images/op.png"
+  },
+  {
+    "id": 8,
+    "name": "✌2 Trong 1Thỏ dâu!✌Gấu Bông con thỏ Cosplay 2 Màu 1-Bunny Bông Cao Cấp Gấu Bông Thú Nhồi Bông Hình Thỏ dâu Và Cà Rốt Sáng Tạo",
+    "price": 72000,
+    "urlImage": "/images/gau.png"
+  }
+]
